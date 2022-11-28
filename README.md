@@ -2,14 +2,13 @@
 
 ## Objective
 
-AutosRUs has tasked my team to review the new MechaCar as it has been suffering from production troubles. We will analysis the current data to see if we can assist the production team on where the issues occur. 
+AutosRUs has tasked my team to review the new MechaCar as it has been suffering from production troubles. We will analyze the current data to see if we can assist.
 
 ## Statitical analysis techniques:
   - Linear regressions for mpg
   - PSI review on summary statistics
-  - T-tests to see if the manufacturing lots differ from the mean
-  
-## Linear Regression to Predict MPG
+  - T-tests 
+ 
 
 ### Linear Regression Results
 
@@ -22,15 +21,15 @@ AutosRUs has tasked my team to review the new MechaCar as it has been suffering 
 ### Analysis Review
 **Which variables/coefficients provided gave a different dataset?**
 
-vehicle length and ground-clearence are likely to add non-random variance to the MechCar, whic effects the MPG.
+vehicle length and ground-clearence are likely to add non-random variance to the MechCar, which effects the MPG.
 
 **Is slope on linear model considered to be zero, explain?**
 
-Looking at the regression of the slope, the p-value is 5.35e-11. Meaning that the slope is not 0. 
+Looking at the regression of the slope, the p-value is 5.35e-11. Meaning that the slope is not zero.
 
 **Linear model predict mpg of MechaCar prototypes effectively, explain?**
 
-The adjusted R-squared value is .6825, which makes this statistically more so than not able to predict the MPG of the MechaCar.
+The adjusted R-squared value is .6825, which makes this statistically more than not able to predict the MPG of the MechaCar.
 
 ## Summary Statistics on Suspension Coils
 
@@ -42,7 +41,6 @@ The adjusted R-squared value is .6825, which makes this statistically more so th
 
 ### Analysis Review
 
-**The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?**
 
 Upon review of the Total Summary informaiton the variance is well below the need 100 PSI as dicatated by manufacturing standards. However, when the lots are sorted by their own Lot 3 is 70 PSI off. 
 
