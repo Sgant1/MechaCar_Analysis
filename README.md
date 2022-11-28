@@ -96,6 +96,6 @@ With total MPG for MechaCar being good, how does this compare to those of its co
   - Visuals, such as box plots and scatter plots to see comparisons
   
 
-
+I worked with Zack Freskan on this project.
 
 
