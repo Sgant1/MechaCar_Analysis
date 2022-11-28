@@ -87,7 +87,7 @@ With total MPG for MechaCar being good, how does this compare to those of its co
   
   - Null: MechaCar's MPG is competitive based on its features and performance
   
-  - Alternative: MechaCar's MPG is not competitive against its rival car makers based on ites features and performans
+  - Alternative: MechaCar's MPG is not competitive against its rival car makers based on ites features and performance.
   
   **Testing**
   
